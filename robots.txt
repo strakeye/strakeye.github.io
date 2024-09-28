@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strakeye.github.io/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/app/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/assets/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/css/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/data/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/includes/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/item/sitemap.strakeye.gz
+Sitemap: https://strakeye.github.io/src/sitemap.strakeye.gz
